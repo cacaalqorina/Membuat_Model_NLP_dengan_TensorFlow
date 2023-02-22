@@ -1,4 +1,4 @@
-# Membuat_Model_NLP_dengan_TensorFlow
+
 Review Rating : ⭐⭐⭐⭐⭐
 Submission Checklists :
 
